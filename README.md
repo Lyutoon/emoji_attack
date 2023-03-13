@@ -48,3 +48,4 @@ Init emotion POSITIVE with score 0.9988607168197632
 [+] Current trans: This hamburger is good for meat  is tender and cheap.
 [+] Current emotion: {'label': 'NEGATIVE', 'score': 0.9692351222038269}
 ```
+This example shows that after we inserted 4 emojis, the translated result changed. Also, although the newly translated sentence seems to be equivalent to the original one, the emotion changed, showing the sentiment analysis model maybe lack of robustness.
