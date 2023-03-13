@@ -1,7 +1,7 @@
 # emoji_attack
-A simple and self-made emoji attack against nlp models.
+A simple and self-made emoji attack against nlp models (pretrained).
 
-- This demo helps me understand and use the api of transformer. Also hope to learn more about nlp attacks.
+- This demo helps me understand and use the api of [transformer](https://github.com/huggingface/transformers). Also hope to learn more about nlp attacks.
 - This demo is still in the **early stages of construction**, if you are interested in doing something related together, please feel free to contact me.
 
 ## Victims
